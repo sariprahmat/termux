@@ -1,0 +1,2 @@
+# termux
+belajar menjadi baik
